@@ -36,4 +36,4 @@ function winningPlayer() {
     }
 }
 
-window.onload = winningPlayer();
+winningPlayer();
